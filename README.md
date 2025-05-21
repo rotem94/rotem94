@@ -39,7 +39,7 @@ Currently pursuing a Master's in Computer Science with a focus on AI, I also enj
 
 ### 📡 [GraphMessageBridge](https://github.com/rotem94/GraphMessageBridge)
 > A microservice system that manages and processes graph-based mission data in real-time via REST and WebSocket.  
-🔧 PostgreSQL, message transformation, microservice pattern.
+🔧 Neo4j, message transformation, microservice pattern.
 
 ### 🔐 [UserManagement](https://github.com/rotem94/UserManagement)
 > ASP.NET Core API with JWT authentication, PostgreSQL, and EF Core using the Result Pattern.  
