@@ -33,6 +33,10 @@ Currently pursuing a Master's in Computer Science with a focus on AI, I also enj
 > A Java tool that scans Node.js `package.json` files for security issues using GitHub's GraphQL Security Advisory API.  
 ✅ Multithreaded scanning, clean architecture, REST API ready.
 
+### 💸 [LoanManager](https://github.com/rotem94/LoanManager)
+> A full-stack app that calculates loan terms based on user input, using an ASP.NET Core Web API and a React 19 + Vite frontend.  
+🎯 Validates user input on both client and server, separates business logic cleanly, and uses environment-based configuration.
+
 ### 📡 [GraphMessageBridge](https://github.com/rotem94/GraphMessageBridge)
 > A microservice system that manages and processes graph-based mission data in real-time via REST and WebSocket.  
 🔧 PostgreSQL, message transformation, microservice pattern.
