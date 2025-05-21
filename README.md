@@ -27,7 +27,7 @@ Currently pursuing a Master's in Computer Science with a focus on AI, I also enj
 
 ---
 
-## 🚀 Key Projects
+## 🚀 What You’ll Find on This GitHub
 
 ### 🔒 [VulnerabilityScanner](https://github.com/rotem94/VulnerabilityScanner)
 > A Java tool that scans Node.js `package.json` files for security issues using GitHub's GraphQL Security Advisory API.  
